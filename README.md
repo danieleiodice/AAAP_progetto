@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow ucimlrepo
 
 ### 3. Esegui il notebook
 ```
-python sample.ipynb
+python main.ipynb
 ```
 
 ### 4. Visualizza i log di addestramento della rete neurale:
