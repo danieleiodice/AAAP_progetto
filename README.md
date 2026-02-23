@@ -70,7 +70,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow ucimlrepo
 python main.ipynb
 ```
 
-### 4. Visualizza i log di addestramento della rete neurale:
+### 4. Visualizza i log di addestramento della rete neurale
 ```
 tensorboard --logdir logs/dl_biopsy
 ```
