@@ -10,14 +10,20 @@ L'obiettivo è analizzare i fattori di rischio (fumo, contraccettivi, malattie s
 - riduzione della dimensionalità per la visualizzazione.
 
 **Dataset**: *Cervical Cancer (Risk Factors)* - UCI Machine Learning Repository (ID: 383)
+
 **Istanze:** 858
+
 **Feature:** 36 (informazioni demografiche, abitudini, anamnesi medica).
 
 ### Tecnologie utilizzate
 **Linguaggio:** Python
+
 **Analisi Dati:** pandas, numpy
+
 **Visualizzazione:** matplotlib, seaborn
+
 **Machine Learning:** scikit-learn (PCA, Random Forest, SVM, Logistic Regression, Naive Bayes)
+
 **Deep Learning:** TensorFlow & Keras + TensorBoard
 
 
